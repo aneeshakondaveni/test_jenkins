@@ -24,7 +24,8 @@ public void loginTest() throws InterruptedException, IOException {
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getWindowHandle());
 		
-		
+		System.out.println("hello");
+		System.out.println("hi");
 		if (driver.getTitle().equals("Gurukul"))
 				
 				{
